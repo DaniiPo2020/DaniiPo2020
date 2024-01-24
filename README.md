@@ -5,7 +5,7 @@ Ingeniera Matemática, Magister en Estadística y Programador amateur
 - Puedes escribirme a **daniela.ponce@usach.cl**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/daniela-ponce-6846ba108]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin-cataldo-ascui-a42b81b6" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/daniela-ponce-6846ba108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin-cataldo-ascui-a42b81b6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
