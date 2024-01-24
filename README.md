@@ -1,10 +1,6 @@
 ### Hola, mi nombre es Daniela Ponce 👋
 Ingeniera Matemática, Magister en Estadística y Programador amateur
 
-<!--
-**DaniiPo2020/DaniiPo2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - Puedes escribirme a **daniela.ponce@usach.cl**
 <h3 align="left">Connect with me:</h3>
