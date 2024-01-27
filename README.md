@@ -1,4 +1,4 @@
-### Hola, mi nombre es Daniela Ponce 👋
+### Hola, soy Daniela Ponce 👋
 Ingeniera Matemática, Magister en Estadística y Programador amateur
 
 
